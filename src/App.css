@@ -1,8 +1,18 @@
 .App {
   text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 100px;
 }
 
-.App-logo {
+body {
+  background-image: url(https://cdn.guidingtech.com/media/assets/WordPress-Import/2017/08/_1200x630_crop_center-center_82_none/276305-thewallpaper.jpg?mtime=1507904278);
+
+  background-size: contain;
+  height: 100vh;
+  background-size: 100%;
+}
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
